@@ -557,3 +557,5 @@ git commit -am "Navigation fixs"   # сделать коммит
 *.css  diff=css
 *.scss diff=css
 ```
+
+ВЗЯТО ОТСЮДА: https://github.com/nicothin/web-development/tree/master/git
